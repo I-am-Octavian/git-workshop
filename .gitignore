@@ -1,1 +1,5 @@
 DONOTTRACK.txt
+
+*.exe
+
+*.o
